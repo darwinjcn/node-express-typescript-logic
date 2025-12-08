@@ -1,0 +1,62 @@
+{
+  "compilerOptions": {
+    /* Configuración compatible con Express y ts-node - Actualizada 2024 */
+    
+    // Versión de JavaScript que se generará
+    "target": "ES2020",
+    
+    // Sistema de módulos (CommonJS es el estándar de Node.js)
+    "module": "commonjs",
+    
+    // Librerías disponibles
+    "lib": ["ES2020"],
+    
+    // Carpeta de salida para archivos compilados
+    "outDir": "./dist",
+    
+    // Carpeta raíz del código fuente
+    "rootDir": "./",
+    
+    // Habilita todas las verificaciones estrictas de tipos
+    "strict": true,
+    
+    // Permite importar módulos CommonJS como ES6
+    "esModuleInterop": true,
+    
+    // Ignora verificaciones de tipos en librerías
+    "skipLibCheck": true,
+    
+    // Fuerza consistencia en nombres de archivos
+    "forceConsistentCasingInFileNames": true,
+    
+    // Permite importar archivos JSON
+    "resolveJsonModule": true,
+    
+    // Estrategia de resolución de módulos para Node.js
+    // Usamos bundler que es más moderno y evita el warning
+    "moduleResolution": "bundler",
+    
+    // Genera archivos de mapeo para debugging
+    "sourceMap": true,
+    
+    // Genera archivos de declaración de tipos
+    "declaration": true,
+    "declarationMap": true,
+    
+    // Opciones adicionales de seguridad
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true
+  },
+  
+  // Archivos TypeScript a incluir en la compilación
+  "include": [
+    "*.ts",
+    "**/*.ts"
+  ],
+  
+  // Archivos a excluir de la compilación
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
