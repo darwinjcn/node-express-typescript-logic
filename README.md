@@ -269,10 +269,6 @@ Todo el código fuente está **completamente documentado** con comentarios expli
 
 Los comentarios están escritos con las palabras del estudiante, evitando comentarios autogenerados por frameworks.
 
-### Ejemplo de Código Documentado
-
-![Código Documentado](capturas/codigo-documentado.png)
-
 ---
 
 ## 🔧 Tecnologías y Dependencias
@@ -305,7 +301,6 @@ Los comentarios están escritos con las palabras del estudiante, evitando coment
 - ✓ Manejo de rutas GET y POST
 - ✓ Generación dinámica de HTML
 
-![Validación HTML5](capturas/ejercicio1-validacion.png)
 
 ### Ejercicio 2
 - ✓ Tipado estricto con TypeScript
@@ -314,7 +309,6 @@ Los comentarios están escritos con las palabras del estudiante, evitando coment
 - ✓ API REST con respuestas JSON
 - ✓ Manejo de errores en fetch
 
-![API JSON](capturas/ejercicio2-api-json.png)
 
 ---
 
