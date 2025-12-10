@@ -19,6 +19,8 @@ Este repositorio contiene la solución completa a los ejercicios de la Evaluaci�
 
 **Descripción:** Aplicación web que solicita el nombre de un animal favorito mediante un formulario HTML y muestra el resultado en otra página HTML, demostrando el uso de dos vistas distintas.
 
+![Ejercicio 1 - Formulario](capturas/ejercicio1-formulario.png)
+
 **Tecnologías utilizadas:**
 - Node.js (v18 o superior)
 - Express.js (Framework web)
@@ -36,11 +38,17 @@ Este repositorio contiene la solución completa a los ejercicios de la Evaluaci�
 
 **Puerto de ejecución:** `http://localhost:3000`
 
+#### Vista del Resultado
+
+![Ejercicio 1 - Resultado](capturas/ejercicio1-resultado.png)
+
 ---
 
 ### Ejercicio 2: TypeScript con Enumeraciones
 
 **Descripción:** Aplicación TypeScript que utiliza enumeraciones (enums) para géneros de películas y países, mostrando los datos tanto en consola como en una interfaz web interactiva.
+
+![Ejercicio 2 - Interfaz Web](capturas/ejercicio2-web-completa.png)
 
 **Tecnologías utilizadas:**
 - TypeScript
@@ -64,6 +72,10 @@ Este repositorio contiene la solución completa a los ejercicios de la Evaluaci�
 - Versión web: `http://localhost:3001`
 - Versión consola: Salida en terminal
 
+#### Salida en Consola
+
+![Ejercicio 2 - Consola](capturas/ejercicio2-consola.png)
+
 ---
 
 ## 📦 Requisitos Previos
@@ -86,6 +98,8 @@ git clone https://github.com/darwinjcn/evaluacion1-programacion3.git
 cd evaluacion1-programacion3
 ```
 
+![VS Code - Estructura](capturas/vscode-estructura.png)
+
 ### Ejercicio 1 - Node.js con Express
 
 ```bash
@@ -106,6 +120,8 @@ Presiona Ctrl+C para detener el servidor
 ```
 
 Abrir navegador en: **http://localhost:3000**
+
+![Terminal - Ejecución Ejercicio 1](capturas/terminal-ejecucion.png)
 
 ---
 
@@ -189,7 +205,7 @@ Abrir navegador en: **http://localhost:3001**
 ## 📁 Estructura del Proyecto
 
 ```
-evaluacion-practica-programacion3/
+evaluacion1-programacion3/
 │
 ├── ejercicio1-node-animal/
 │   ├── server.js              # Servidor Express con rutas
@@ -206,6 +222,13 @@ evaluacion-practica-programacion3/
 │   ├── Dockerfile             # Configuración Docker
 │   └── public/
 │       └── index.html         # Interfaz web
+│
+├── capturas/                  # Capturas de pantalla
+│   ├── github-repositorio.png
+│   ├── ejercicio1-formulario.png
+│   ├── ejercicio1-resultado.png
+│   ├── ejercicio2-web-completa.png
+│   └── ...
 │
 ├── .gitignore                 # Archivos ignorados por Git
 └── README.md                  # Este archivo
@@ -225,6 +248,13 @@ Ambos ejercicios comparten un diseño uniforme y profesional:
 - **Animaciones sutiles:** Hover effects y transiciones suaves
 - **Tipografía moderna:** Segoe UI para mejor legibilidad
 
+### Capturas de Pantalla del Diseño
+
+| Ejercicio 1 | Ejercicio 2 |
+|---|---|
+| ![E1 Form](capturas/ejercicio1-formulario.png) | ![E2 Web](capturas/ejercicio2-web-completa.png) |
+| ![E1 Result](capturas/ejercicio1-resultado.png) | ![E2 DevTools](capturas/ejercicio2-web-devtools.png) |
+
 ---
 
 ## 📝 Documentación del Código
@@ -238,6 +268,10 @@ Todo el código fuente está **completamente documentado** con comentarios expli
 - Uso de middlewares y configuraciones
 
 Los comentarios están escritos con las palabras del estudiante, evitando comentarios autogenerados por frameworks.
+
+### Ejemplo de Código Documentado
+
+![Código Documentado](capturas/codigo-documentado.png)
 
 ---
 
@@ -271,12 +305,16 @@ Los comentarios están escritos con las palabras del estudiante, evitando coment
 - ✓ Manejo de rutas GET y POST
 - ✓ Generación dinámica de HTML
 
+![Validación HTML5](capturas/ejercicio1-validacion.png)
+
 ### Ejercicio 2
 - ✓ Tipado estricto con TypeScript
 - ✓ Validación de tipos con interfaces
 - ✓ Uso correcto de enumeraciones
 - ✓ API REST con respuestas JSON
 - ✓ Manejo de errores en fetch
+
+![API JSON](capturas/ejercicio2-api-json.png)
 
 ---
 
@@ -295,11 +333,15 @@ Los comentarios están escritos con las palabras del estudiante, evitando coment
 4. Revisar la lista de países disponibles
 5. Ver las tarjetas de películas de ejemplo
 
+### Herramientas de Desarrollo
+
+![DevTools - Ejercicio 1](capturas/ejercicio1-devtools.png)
+
 ---
 
 ## 👨‍💻 Autor
 
-**[Darwin Colmenares]**  
+**Darwin Colmenares**  
 Estudiante de Ingeniería Informática  
 Universidad Nacional Experimental de las Telecomunicaciones e Informática (UNETI)
 
@@ -311,7 +353,7 @@ Universidad Nacional Experimental de las Telecomunicaciones e Informática (UNET
 - **Materia:** Programación 3
 - **Tipo de Evaluación:** Práctica 1
 - **Ponderación:** 25% (5 puntos)
-- **Profesor:** [Carlos Márquez]
+- **Profesor:** Carlos Márquez
 
 ---
 
@@ -336,8 +378,8 @@ Este es un proyecto académico individual para evaluación universitaria.
 ## 📞 Contacto
 
 Para consultas sobre este proyecto:
-- **Email:** [colmenaresdarwin06@gmail.com]
-- **GitHub:** [darwinjcn]
+- **Email:** colmenaresdarwin06@gmail.com
+- **GitHub:** [@darwinjcn](https://github.com/darwinjcn)
 
 ---
 
