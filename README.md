@@ -331,6 +331,9 @@ Los comentarios están escritos con las palabras del estudiante, evitando coment
 
 ![DevTools - Ejercicio 1](capturas/ejercicio1-devtools.png)
 
+
+![DevTools - Ejercicio 2](capturas/ejercicio2-web-devtools.png)
+
 ---
 
 ## 👨‍💻 Autor
