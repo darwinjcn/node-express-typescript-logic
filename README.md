@@ -25,6 +25,15 @@ El laboratorio se divide en dos módulos core que aplican principios de escalabi
 * **Habilidades:** Programación con tipado fuerte, arquitectura de API REST interna y lógica interactiva.
 * **Acceso:** Puerto `3001`.
 
+**Vistas del Módulo:**
+<p align="center">
+  <img src="capturas/ejercicio2-web-completa.png" width="90%" alt="Interfaz TypeScript" />
+</p>
+<p align="center">
+  <img src="capturas/ejercicio2-consola.png" width="60%" alt="Salida en Consola TS" />
+</p>
+
+
 ---
 
 ## 🏗️ Arquitectura y Tecnologías
