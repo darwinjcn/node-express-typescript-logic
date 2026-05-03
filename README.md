@@ -11,6 +11,11 @@ Este repositorio es un laboratorio técnico diseñado para demostrar la implemen
 
 ---
 
+<p align="center">
+  <video src="capturas/video-presentacion-proyecto.mp4" width="100%" controls autoplay loop muted></video>
+</p>
+---
+
 ## 🎯 Descripción del Proyecto
 
 El laboratorio se divide en dos módulos core que aplican principios de escalabilidad y mantenibilidad en entornos de desarrollo modernos.
