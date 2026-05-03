@@ -38,22 +38,6 @@ Para maximizar la compatibilidad y el rendimiento, se han seleccionado las sigui
 
 ---
 
-## 📁 Estructura del Proyecto
-
-```text
-node-express-typescript-logic/
-├── ejercicio1-node-animal/           # Backend Node.js / Express
-│   ├── server.js                     # Lógica de rutas y middleware
-│   └── Dockerfile                    # Configuración de contenedor
-├── ejercicio2-typescript-peliculas/  # Módulo de TypeScript
-│   ├── server.ts                     # Implementación del servidor TS
-│   ├── index.ts                      # Lógica de ejecución en consola
-│   └── Dockerfile                    # Configuración de contenedor
-└── capturas/                         # Documentación visual del flujo
-
-
----
-
 ## 🚀 Instalación y Ejecución
 
 Opción A: Con Docker (Recomendado)
@@ -72,3 +56,20 @@ docker run -p 3000:3000 node-lab-1
 cd ../ejercicio2-typescript-peliculas
 docker build -t ts-lab-2 .
 docker run -p 3001:3001 ts-lab-2
+
+
+## 📁 Estructura del Proyecto
+
+```text
+node-express-typescript-logic/
+├── ejercicio1-node-animal/           # Backend Node.js / Express
+│   ├── server.js                     # Lógica de rutas y middleware
+│   └── Dockerfile                    # Configuración de contenedor
+├── ejercicio2-typescript-peliculas/  # Módulo de TypeScript
+│   ├── server.ts                     # Implementación del servidor TS
+│   ├── index.ts                      # Lógica de ejecución en consola
+│   └── Dockerfile                    # Configuración de contenedor
+└── capturas/                         # Documentación visual del flujo
+
+
+---
