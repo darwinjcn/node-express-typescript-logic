@@ -39,7 +39,7 @@ Para maximizar la compatibilidad y el rendimiento, se han seleccionado las sigui
 ---
 
 ## 🚀 Instalación y Ejecución
-Opción A: Con Docker (Recomendado)
+## Opción A: Con Docker (Recomendado)
 
 Ideal para desplegar el laboratorio sin configurar dependencias locales:
 
@@ -56,6 +56,13 @@ Ideal para desplegar el laboratorio sin configurar dependencias locales:
 * cd ../ejercicio2-typescript-peliculas
 * docker build -t ts-lab-2 .
 * docker run -p 3001:3001 ts-lab-2
+
+## Opción B: Ejecución Local
+
+Requiere Node.js v18+. Dentro de cada carpeta de ejercicio:
+
+* npm install
+* npm start
 
 ---
 
