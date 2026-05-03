@@ -78,3 +78,22 @@ Requiere Node.js v18+. Dentro de cada carpeta de ejercicio:
 * npm start
 
 ---
+
+## 🎓 Contexto Académico
+
+Este proyecto fue desarrollado originalmente como parte de la Evaluación Práctica 1 de la unidad curricular Programación 3 en la UNETI (Ingeniería Informática), bajo la supervisión del Prof. Carlos Márquez. Representa la aplicación práctica de conceptos de arquitectura de software y tipado avanzado.
+
+---
+
+## 👨‍💻 Autor
+
+Darwin Colmenares Desarrollador Full-Stack & Analista BI
+
+
+💼 LinkedIn
+
+
+💬 WhatsApp (Click para Chatear)
+
+
+🐙 GitHub
