@@ -11,10 +11,6 @@ Este repositorio es un laboratorio técnico diseñado para demostrar la implemen
 
 ---
 
-<p align="center">
-  <video src="capturas/video-presentacion-proyecto.mp4" width="100%" controls autoplay loop muted></video>
-</p>
----
 
 ## 🎯 Descripción del Proyecto
 
