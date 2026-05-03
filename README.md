@@ -11,6 +11,12 @@ Este repositorio es un laboratorio técnico diseñado para demostrar la implemen
 
 ---
 
+<p align="center">
+  <video src="https://github.com/darwinjcn/node-express-typescript-logic/raw/main/capturas/video-presentacion-proyecto.mp4" width="100%" muted autoplay loop playsinline></video>
+</p>
+
+---
+
 
 ## 🎯 Descripción del Proyecto
 
