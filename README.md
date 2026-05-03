@@ -48,9 +48,8 @@ node-express-typescript-logic/
 │   ├── index.ts                      # Lógica de ejecución en consola
 │   └── Dockerfile                    # Configuración de contenedor
 └── capturas/                         # Documentación visual del flujo
-
+```text
 ---
-
 
 ---
 
