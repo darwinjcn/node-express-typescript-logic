@@ -52,6 +52,8 @@ node-express-typescript-logic/
 └── capturas/                         # Documentación visual del flujo
 
 
+---
+
 ## 🚀 Instalación y Ejecución
 
 Opción A: Con Docker (Recomendado)
