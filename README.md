@@ -39,13 +39,21 @@ Para maximizar la compatibilidad y el rendimiento, se han seleccionado las sigui
 ## 📁 Estructura del Proyecto
 
 node-express-typescript-logic/
+
 ├── ejercicio1-node-animal/           # Backend Node.js / Express
+
 │   ├── server.js                     # Lógica de rutas y middleware
+
 │   └── Dockerfile                    # Configuración de contenedor
+
 ├── ejercicio2-typescript-peliculas/  # Módulo de TypeScript
+
 │   ├── server.ts                     # Implementación del servidor TS
+
 │   ├── index.ts                      # Lógica de ejecución en consola
+
 │   └── Dockerfile                    # Configuración de contenedor
+
 └── capturas/                         # Documentación visual del flujo
 
 
