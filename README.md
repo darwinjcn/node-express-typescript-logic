@@ -11,10 +11,9 @@ Este repositorio es un laboratorio técnico diseñado para demostrar la implemen
 
 ---
 
-
+## Vista Previa del Proyecto
 
 https://github.com/user-attachments/assets/e91c049e-f8a5-465d-87c6-ada2332efd26
-
 
 
 ---
