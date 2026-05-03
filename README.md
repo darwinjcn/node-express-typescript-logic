@@ -103,4 +103,3 @@ Darwin Colmenares Desarrollador Full-Stack & Analista BI
 <p align="center">
   <sub>Construido con ❤️ y café</sub>
 </p>
-```
