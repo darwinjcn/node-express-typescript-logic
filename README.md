@@ -36,8 +36,10 @@ Para maximizar la compatibilidad y el rendimiento, se han seleccionado las sigui
 * 🎨 **Frontend:** Interfaces limpias con HTML5 y CSS3 (Estética de tarjetas y gradientes).
 * 🐳 **Contenedores:** Infraestructura dockerizada mediante Dockerfiles optimizados por módulo.
 
+--- 
+
 ## 📁 Estructura del Proyecto
----
+
 ```text
 node-express-typescript-logic/
 ├── ejercicio1-node-animal/           # Backend Node.js / Express
@@ -49,7 +51,9 @@ node-express-typescript-logic/
 │   └── Dockerfile                    # Configuración de contenedor
 └── capturas/
 ```
+
 ---
+
 
 ## 🚀 Instalación y Ejecución
 ## Opción A: Con Docker (Recomendado)
