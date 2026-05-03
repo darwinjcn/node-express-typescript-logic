@@ -89,11 +89,8 @@ Este proyecto fue desarrollado originalmente como parte de la Evaluación Práct
 
 Darwin Colmenares Desarrollador Full-Stack & Analista BI
 
+💼 [LinkedIn](https://linkedin.com/in/darwin-colmenares)
 
-💼 LinkedIn
+💬 [WhatsApp (Click para Chatear)](https://wa.me/584265152896/)
 
-
-💬 WhatsApp (Click para Chatear)
-
-
-🐙 GitHub
+🐙 [GitHub](https://github.com/darwinjcn)
