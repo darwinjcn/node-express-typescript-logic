@@ -37,6 +37,20 @@ Para maximizar la compatibilidad y el rendimiento, se han seleccionado las sigui
 * 🐳 **Contenedores:** Infraestructura dockerizada mediante Dockerfiles optimizados por módulo.
 
 ---
+## 📁 Estructura del Proyecto
+
+```text
+node-express-typescript-logic/
+├── ejercicio1-node-animal/           # Backend Node.js / Express
+│   ├── server.js                     # Lógica de rutas y middleware
+│   └── Dockerfile                    # Configuración de contenedor
+├── ejercicio2-typescript-peliculas/  # Módulo de TypeScript
+│   ├── server.ts                     # Implementación del servidor TS
+│   ├── index.ts                      # Lógica de ejecución en consola
+│   └── Dockerfile                    # Configuración de contenedor
+└── capturas/                         # Documentación visual del flujo
+
+---
 
 ## 🚀 Instalación y Ejecución
 ## Opción A: Con Docker (Recomendado)
@@ -63,21 +77,5 @@ Requiere Node.js v18+. Dentro de cada carpeta de ejercicio:
 
 * npm install
 * npm start
-
----
-
-## 📁 Estructura del Proyecto
-
-```text
-node-express-typescript-logic/
-├── ejercicio1-node-animal/           # Backend Node.js / Express
-│   ├── server.js                     # Lógica de rutas y middleware
-│   └── Dockerfile                    # Configuración de contenedor
-├── ejercicio2-typescript-peliculas/  # Módulo de TypeScript
-│   ├── server.ts                     # Implementación del servidor TS
-│   ├── index.ts                      # Lógica de ejecución en consola
-│   └── Dockerfile                    # Configuración de contenedor
-└── capturas/                         # Documentación visual del flujo
-
 
 ---
