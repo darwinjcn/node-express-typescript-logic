@@ -40,6 +40,7 @@ Para maximizar la compatibilidad y el rendimiento, se han seleccionado las sigui
 
 ## 🚀 Instalación y Ejecución
 Opción A: Con Docker (Recomendado)
+
 Ideal para desplegar el laboratorio sin configurar dependencias locales:
 
 ### Clonar repositorio
