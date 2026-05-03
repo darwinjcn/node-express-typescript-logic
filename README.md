@@ -48,7 +48,7 @@ node-express-typescript-logic/
 │   ├── index.ts                      # Lógica de ejecución en consola
 │   └── Dockerfile                    # Configuración de contenedor
 └── capturas/
-
+```
 ---
 
 ## 🚀 Instalación y Ejecución
