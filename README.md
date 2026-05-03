@@ -39,24 +39,24 @@ Para maximizar la compatibilidad y el rendimiento, se han seleccionado las sigui
 ---
 
 ## 🚀 Instalación y Ejecución
-
 Opción A: Con Docker (Recomendado)
 Ideal para desplegar el laboratorio sin configurar dependencias locales:
 
-# Clonar repositorio
+### Clonar repositorio
 git clone [https://github.com/darwinjcn/node-express-typescript-logic.git](https://github.com/darwinjcn/node-express-typescript-logic.git)
 cd node-express-typescript-logic
 
-# Levantar Módulo 1 (Node.js) en puerto 3000
+### Levantar Módulo 1 (Node.js) en puerto 3000
 cd ejercicio1-node-animal
 docker build -t node-lab-1 .
 docker run -p 3000:3000 node-lab-1
 
-# Levantar Módulo 2 (TypeScript) en puerto 3001
+### Levantar Módulo 2 (TypeScript) en puerto 3001
 cd ../ejercicio2-typescript-peliculas
 docker build -t ts-lab-2 .
 docker run -p 3001:3001 ts-lab-2
 
+---
 
 ## 📁 Estructura del Proyecto
 
